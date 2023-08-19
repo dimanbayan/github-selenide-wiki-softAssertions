@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d139e1f-4871-4911-a43a-ca36d19ff164" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/fr/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/fr/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/fr/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/fr/markdown/markdown-velocity.md.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/fr/markdown/markdown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/fr/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/markdown/markdown-velocity.md.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/markdown/markdown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/site_fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstMaven/src/site/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/github/selenide/wiki/softAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/7.1.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/7.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/7.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_guru_21_java/src/main/java/guru/qa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../secondMaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../secondMaven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../secondMaven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../secondMaven/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../secondMaven/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/7.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/7.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UDHJUJ9aiXWpVDVFNveKvbO17L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="softAssertions.existCodeJUnit5" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;github.selenide.wiki.softAssertions.existCodeJUnit5&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.softAssertions.existCodeJUnit5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d139e1f-4871-4911-a43a-ca36d19ff164" name="Changes" comment="" />
+      <created>1692467175437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692467175437</updated>
+    </task>
+    <servers />
+  </component>
+</project>
