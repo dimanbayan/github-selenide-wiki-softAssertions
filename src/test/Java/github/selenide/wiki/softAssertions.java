@@ -18,8 +18,9 @@ public class softAssertions {
 // Переход в раздел wiki проекта
         $("#wiki-tab").click();
 
-        //Проверка наличия страницы SoftAssertions
-        $(".markdown-body ul").shouldHave(text("Soft assertions"));
+        //Проверка наличия страницы SoftAssertions в разделе Pages
+        $("#wiki-pages-box div div ul").$(byText("Show 2 more pages…")).click();
+        $("#wiki-pages-box div div ul").shouldHave(text("SoftAssertions"));
 
 //        Переход на страницу SoftAssertions
         $(".markdown-body ul").$(byText("Soft assertions")).click();
