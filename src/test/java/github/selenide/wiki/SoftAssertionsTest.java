@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class SoftAssertions {
+public class SoftAssertionsTest {
 
     @Test
     void existJUnit5Code() {
